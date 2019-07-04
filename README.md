@@ -7,7 +7,7 @@ Gusztav Belteki, Andras Szell, Lajos Lantos, Gabor Kovacs,
 Gyula Szanto, Aniko Berenyi, Monika Szilagyi, Gabor Liszkay,
 Ferenc Kohalmi, Colin Morley & Zsolt Somogyvari:
 **Volume targeted ventilation with a fabian ventilator:
-mainteNance of tidal volumes and blood CO$_2$**
+maintenance of tidal volumes and blood CO2**
 
 _Arch Dis Child Fetal Neonatal Ed._, in press   
 
