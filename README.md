@@ -9,7 +9,7 @@ Ferenc Kohalmi, Colin Morley & Zsolt Somogyvari:
 **Volume targeted ventilation with a fabian ventilator:
 maintenance of tidal volumes and blood CO2**
 
-_Arch Dis Child Fetal Neonatal Ed._, in press   
+_Arch Dis Child Fetal Neonatal Ed._  2019;0:F1–F6. doi:10.1136/archdischild-2019-317152 
 
 Contact: gusztav.belteki@addenbrookes.nhs.uk; gbelteki@aol.com
 
